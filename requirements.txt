@@ -7,7 +7,7 @@ tqdm==4.66.4
 gdown==4.7.1
 
 # Deep learning
-tensorflow==2.15.0
+tensorflow-cpu==2.15.0
 keras==2.15.0
 mtcnn==0.1.0
 retina-face==0.0.13
